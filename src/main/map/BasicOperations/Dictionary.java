@@ -1,4 +1,4 @@
-package main.map.BasicOperations.ContactBook;
+package main.map.BasicOperations;
 
 import java.util.HashMap;
 import java.util.Map;
